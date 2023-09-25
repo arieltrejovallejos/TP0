@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHAo5jtODRrv+QARAPWyP7Iw/ksz0v7EoewZCtvbCiMCOBcjL/b/JHoGFHyy5O3AikCUGAnn0ro2O90oM3ma1g==",
+  "success": true,
+  "projectFilePath": "c:\\Visual Studio Code\\Ejemplo\\prog_avanzada_2_tp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARIEL TREJO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ARIEL TREJO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ARIEL TREJO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ARIEL TREJO\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.22\\microsoft.netcore.app.host.win-x86.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
